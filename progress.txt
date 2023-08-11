@@ -1,0 +1,3 @@
+List of commands use
+
+1. yarn add bcryptjs next-auth mongodb mongoose 
